@@ -3,14 +3,7 @@ function init_oauthio() {
 }
 
 function authenticate(callback) {
-	OAuth.popup('facebook')
-		.done(function(result) {
-			callback(null, result);
-		})
-		.fail(function(error) {
-			console.log(error);
-			callback(error);
-		});
+    // Replace this with the popup authentication
 }
 
 function retrieve_user_info(result, callback) {
