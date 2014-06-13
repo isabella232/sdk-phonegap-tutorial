@@ -14,14 +14,7 @@ function authenticate(callback) {
 }
 
 function retrieve_user_info(result, callback) {
-	result.me()
-		.done(function(user_info) {
-			callback(null, user_info);
-		})
-		.fail(function(error) {
-			console.log(error);
-			callback(error);
-		});
+    // Replace this with the API request code
 }
 
 $('#login_button').click(function() {
