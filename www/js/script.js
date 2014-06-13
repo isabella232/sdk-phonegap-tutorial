@@ -1,5 +1,5 @@
 function init_oauthio() {
-	OAuth.initialize(credentials.app_key);
+	// Replace this line with the SDK initialization
 }
 
 function authenticate(callback) {
