@@ -193,3 +193,5 @@ $ git checkout step-4 --force
 
 More information
 ----------------
+
+You can get more information about this SDK by consulting its [Github page](https//github.com/oauth-io/oauth-phonegap).
