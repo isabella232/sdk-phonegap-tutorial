@@ -1,0 +1,23 @@
+/Users/antoine/projects/tutorials/sdk-phonegap-tutorial/platforms/android/ant-build/classes.dex : \
+/Users/antoine/projects/tutorials/sdk-phonegap-tutorial/platforms/android/ant-build/classes/com/phonegap/helloworld/BuildConfig.class \
+/Users/antoine/projects/tutorials/sdk-phonegap-tutorial/platforms/android/ant-build/classes/com/phonegap/helloworld/OAuthioTutorial.class \
+/Users/antoine/projects/tutorials/sdk-phonegap-tutorial/platforms/android/ant-build/classes/com/phonegap/helloworld/R$attr.class \
+/Users/antoine/projects/tutorials/sdk-phonegap-tutorial/platforms/android/ant-build/classes/com/phonegap/helloworld/R$drawable.class \
+/Users/antoine/projects/tutorials/sdk-phonegap-tutorial/platforms/android/ant-build/classes/com/phonegap/helloworld/R$string.class \
+/Users/antoine/projects/tutorials/sdk-phonegap-tutorial/platforms/android/ant-build/classes/com/phonegap/helloworld/R$xml.class \
+/Users/antoine/projects/tutorials/sdk-phonegap-tutorial/platforms/android/ant-build/classes/com/phonegap/helloworld/R.class \
+/Users/antoine/projects/tutorials/sdk-phonegap-tutorial/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$1.class \
+/Users/antoine/projects/tutorials/sdk-phonegap-tutorial/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$2.class \
+/Users/antoine/projects/tutorials/sdk-phonegap-tutorial/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$3.class \
+/Users/antoine/projects/tutorials/sdk-phonegap-tutorial/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4$1.class \
+/Users/antoine/projects/tutorials/sdk-phonegap-tutorial/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4.class \
+/Users/antoine/projects/tutorials/sdk-phonegap-tutorial/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$1.class \
+/Users/antoine/projects/tutorials/sdk-phonegap-tutorial/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$2.class \
+/Users/antoine/projects/tutorials/sdk-phonegap-tutorial/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$3.class \
+/Users/antoine/projects/tutorials/sdk-phonegap-tutorial/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$4.class \
+/Users/antoine/projects/tutorials/sdk-phonegap-tutorial/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5.class \
+/Users/antoine/projects/tutorials/sdk-phonegap-tutorial/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$InAppBrowserClient.class \
+/Users/antoine/projects/tutorials/sdk-phonegap-tutorial/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser.class \
+/Users/antoine/projects/tutorials/sdk-phonegap-tutorial/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowserDialog.class \
+/Users/antoine/projects/tutorials/sdk-phonegap-tutorial/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppChromeClient.class \
+/Users/antoine/projects/tutorials/sdk-phonegap-tutorial/platforms/android/ant-build/dexedLibs/classes-fac68c8404fb02ef79c3e10a3c8d9819.jar \

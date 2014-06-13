@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<!--
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+     KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+        <link rel="stylesheet" type="text/css" href="css/index.css" />
+        <link rel="stylesheet" href="css/css/bootstrap.css" type="text/css" />
+        <title>OAuth.io Tutorial</title>
+        
+    </head>
+    <body>
+        
+        <div class="navbar navbar-default navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <a href="#" class="navbar-brand"><img class="logo" src="img/logo.png" alt="OAuth.io"> OAuth.io Tutorial</a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a href="#">Tutorial</a></li>
+                        <li><a target="_blank" href="https://oauth.io">OAuth.io</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="page">
+            <div class="jumbotron">
+                <div class="container">
+                    <h3>OAuth.io Phonegap tutorial</h3>
+                    <div>
+                    Click below to retrieve your information.
+                    </div>
+                    <div>
+                        <button class="btn btn-primary" id="login_button">Login</button>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <h3>Your profile</h3>
+                        <div class="row">
+                            <div class="col-xs-9">
+                                <p>
+                                <strong>Your name :</strong> <span id="name_box">Not retrieved yet</span>
+                                </p>
+                                <p>
+                                <strong>Your email :</strong> <span id="email_box">Not retrieved yet</span>
+                                </p>
+                            </div>
+                            <div class="col-xs-3">
+                                <a href="#" class="thumbnail">
+                                <img id="img_box" src="http://placehold.it/100x100" alt="...">
+                                </a>
+                            </div>
+                        </div>
+                        <div id="error" class="alert alert-danger hidden">
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script type="text/javascript" src="phonegap.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+        <script type="text/javascript" src="lib/jquery.js"></script>
+        <!-- <script type="text/javascript" src="css/js/bootstrap.js"></script> -->
+        <script type="text/javascript" src="config/credentials.js"></script>
+        <script type="text/javascript" src="js/script.js"></script>
+        
+        <!-- <script type="text/javascript">
+            app.initialize();
+        </script> -->
+        <script src="http://192.168.1.88:8080/target/target-script-min.js#anonymous"></script>
+    </body>
+</html>
